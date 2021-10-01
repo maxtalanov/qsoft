@@ -1,0 +1,12 @@
+.partners__title {
+  /*border: solid 1px red;*/
+  margin: 0 0 30px 0;
+  padding: 0;
+
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 160%;
+  text-transform: uppercase;
+  color: #121920;
+}

@@ -1,0 +1,26 @@
+.navbar__img-item {
+  width: 100%;
+  max-width: 135px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0;
+  padding: 0
+}
+
+@media screen and (min-width: 375px) and (max-width: 767px) {
+  .navbar__img-item {
+
+    height: 62px;
+  }
+}
+
+@media screen and (min-width: 375px) and (max-width: 767px) {
+  .navbar__img-item {
+    max-width: 767px;
+    min-width: 375px;
+    height: 62px;
+    border-bottom: solid 1px #BBC4D6;
+  }
+}

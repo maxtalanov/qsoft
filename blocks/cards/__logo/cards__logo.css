@@ -1,0 +1,7 @@
+.cards__logo {
+  max-width: 100%;
+  max-height: 120px;
+  object-fit: cover;
+  margin: auto;
+  padding: 0;
+}

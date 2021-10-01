@@ -1,0 +1,17 @@
+.navbar__profile {
+  max-width: 18.37%;
+  min-height: 80px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+
+  border-left: 1px solid #EBEBF1;
+  margin: 0;
+  padding: 0 0 0 19px;
+}
+
+@media screen and (min-width: 375px) and (max-width: 767px) {
+  .navbar__profile {
+    display: none;
+  }
+}

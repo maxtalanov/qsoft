@@ -1,0 +1,37 @@
+@import url(../vendor/normalize.css);
+@import url(../fonts/fonts.css);
+@import url(../blocks/page/page.css);
+
+/* Начало СЕКЦИИ HEADER */
+@import url(../blocks/header/header.css);
+/* Конец СЕКЦИИ HEADER */
+
+/* Начало СЕКЦИИ CONTENT*/
+@import url(../blocks/content/content.css);
+/* Конец СЕКЦИИ CONTENT */
+
+/* Начало СЕКЦИИ NAVBAR */
+@import url(../blocks/navbar/navbar.css);
+@import url(../blocks/navbar/__img-item/navbar__img-item.css);
+@import url(../blocks/navbar/__logo/navbar__logo.css);
+@import url(../blocks/navbar/__logo-profile/navbar__logo-profile.css);
+@import url(../blocks/navbar/__search/navbar__search.css);
+@import url(../blocks/navbar/__search-input/navbar__search-input.css);
+@import url(../blocks/navbar/__profile/navbar__profile.css);
+@import url(../blocks/navbar/__title/navbar__title.css);
+/* Конец СЕКЦИИ NAVBAR */
+
+/* Начало СЕКЦИИ PARTNERS*/
+@import url(../blocks/partners/partners.css);
+@import url(../blocks/partners/__title/partners__title.css);
+/* Конец СЕКЦИИ PARTNERS */
+
+/* Начало СЕКЦИИ CARDS*/
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__logo/cards__logo.css);
+/* Конец СЕКЦИИ CARDS */
+
+/* Начало СЕКЦИИ HOVER*/
+@import url(../blocks/hover/hover.css);
+/* Конец СЕКЦИИ HOVER */
